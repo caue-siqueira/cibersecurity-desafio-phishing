@@ -30,7 +30,7 @@
   
    ![image](https://github.com/user-attachments/assets/155038e3-d0b1-4352-998e-4fb17a61872a)
 
-- Obtendo o endereço da máquina: ifconfig (aperte enter para selecionar o ip da máquina)
+- Obtendo o endereço da máquina: ifconfig (aperte enter para selecionar o ip da máquina local)
 - URL para clone: http://www.instagram.com
   
    ![image](https://github.com/user-attachments/assets/be0dea0d-04be-4e72-8c8d-c2c15d419bd8)
